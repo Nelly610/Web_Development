@@ -1,0 +1,16 @@
+body {
+    background-color: #4FC3F7;
+}
+
+/* 
+https://www.w3schools.com/css/css_align.asp */
+
+div {
+    text-align: center;
+    width: 100%;
+    margin-top: 25%;
+}
+
+p {
+    color: white;
+}
